@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:id="@+id/ll_custom_refresh"
+        style="@style/ll_menu_layout">
+
+        <ImageView
+            android:id="@+id/iv_custom_service"
+            android:layout_width="wrap_content"
+            android:layout_height="18dp"
+            android:src="@mipmap/menu_refresh"/>
+
+        <TextView
+            android:id="@+id/tv_custom_service"
+            android:text="@string/menu_refresh"
+            style="@style/ll_menu_text"/>
+    </LinearLayout>
+
+
+</LinearLayout>

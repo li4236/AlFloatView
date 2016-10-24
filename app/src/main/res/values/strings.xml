@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Suspension</string>
+
+
+    <string name="menu_exit">退出</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_refresh">刷新</string>
+</resources>
